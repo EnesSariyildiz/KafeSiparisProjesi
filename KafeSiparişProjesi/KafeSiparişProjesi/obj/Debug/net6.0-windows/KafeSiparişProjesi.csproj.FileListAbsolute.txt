@@ -1,0 +1,17 @@
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\bin\Debug\net6.0-windows\KafeSiparişProjesi.exe
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\bin\Debug\net6.0-windows\KafeSiparişProjesi.deps.json
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\bin\Debug\net6.0-windows\KafeSiparişProjesi.runtimeconfig.json
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\bin\Debug\net6.0-windows\KafeSiparişProjesi.dll
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\bin\Debug\net6.0-windows\KafeSiparişProjesi.pdb
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.Form1.resources
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.AssemblyInfoInputs.cache
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.AssemblyInfo.cs
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.dll
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\refint\KafeSiparişProjesi.dll
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.pdb
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\KafeSiparişProjesi.genruntimeconfig.cache
+C:\Users\ens_s\Desktop\Software\KafeSiparişProjesi\KafeSiparişProjesi\obj\Debug\net6.0-windows\ref\KafeSiparişProjesi.dll
