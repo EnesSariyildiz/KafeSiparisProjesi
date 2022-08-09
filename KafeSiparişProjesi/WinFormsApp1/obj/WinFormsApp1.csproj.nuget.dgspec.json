@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\KafeSiparişProjesi\\KafeSiparişProjesi.csproj": {}
+    "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\KafeSiparişProjesi\\KafeSiparişProjesi.csproj": {
+    "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\KafeSiparişProjesi\\KafeSiparişProjesi.csproj",
-        "projectName": "KafeSiparişProjesi",
-        "projectPath": "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\KafeSiparişProjesi\\KafeSiparişProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectName": "WinFormsApp1",
+        "projectPath": "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\ens_s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\KafeSiparişProjesi\\obj\\",
+        "outputPath": "C:\\Users\\ens_s\\Desktop\\Software\\KafeSiparişProjesi\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ens_s\\AppData\\Roaming\\NuGet\\NuGet.Config",

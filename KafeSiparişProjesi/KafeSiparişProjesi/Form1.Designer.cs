@@ -45,7 +45,7 @@
             this.espressoSourButton = new System.Windows.Forms.Button();
             this.espressoCountLabel = new System.Windows.Forms.Label();
             this.espressoLabel = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.sifirlaButton = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.SiparisGroupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -95,6 +95,7 @@
             this.mochaSourButton.TabIndex = 14;
             this.mochaSourButton.Text = "-";
             this.mochaSourButton.UseVisualStyleBackColor = false;
+            this.mochaSourButton.Click += new System.EventHandler(this.mochaSourButton_Click);
             // 
             // mochaCountLabel
             // 
@@ -134,6 +135,7 @@
             this.türkKahvesiSourButton.TabIndex = 10;
             this.türkKahvesiSourButton.Text = "-";
             this.türkKahvesiSourButton.UseVisualStyleBackColor = false;
+            this.türkKahvesiSourButton.Click += new System.EventHandler(this.türkKahvesiSourButton_Click);
             // 
             // türkKahvesiCountLabel
             // 
@@ -175,6 +177,7 @@
             this.cappuccinoSourButton.TabIndex = 6;
             this.cappuccinoSourButton.Text = "-";
             this.cappuccinoSourButton.UseVisualStyleBackColor = false;
+            this.cappuccinoSourButton.Click += new System.EventHandler(this.cappuccinoSourButton_Click);
             // 
             // cappuccinoCountLabel
             // 
@@ -235,14 +238,15 @@
             this.espressoLabel.TabIndex = 0;
             this.espressoLabel.Text = "Espresso :";
             // 
-            // button1
+            // sifirlaButton
             // 
-            this.button1.Location = new System.Drawing.Point(12, 215);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(107, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Sıfırla";
-            this.button1.UseVisualStyleBackColor = true;
+            this.sifirlaButton.Location = new System.Drawing.Point(12, 215);
+            this.sifirlaButton.Name = "sifirlaButton";
+            this.sifirlaButton.Size = new System.Drawing.Size(107, 23);
+            this.sifirlaButton.TabIndex = 1;
+            this.sifirlaButton.Text = "Sıfırla";
+            this.sifirlaButton.UseVisualStyleBackColor = true;
+            this.sifirlaButton.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -252,20 +256,22 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Siparişi Tamamla";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Ivory;
-            this.ClientSize = new System.Drawing.Size(271, 269);
+            this.ClientSize = new System.Drawing.Size(276, 261);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.sifirlaButton);
             this.Controls.Add(this.SiparisGroupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kahve Çeşitleri";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.SiparisGroupBox1.ResumeLayout(false);
             this.SiparisGroupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -291,7 +297,7 @@
         private Button cappuccinoSourButton;
         private Label cappuccinoCountLabel;
         private Label cappuccinoLabel;
-        private Button button1;
+        private Button sifirlaButton;
         private Button button2;
     }
 }
